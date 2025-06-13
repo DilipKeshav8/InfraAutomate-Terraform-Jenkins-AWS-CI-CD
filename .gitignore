@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Local .terraform directories
 .terraform/
 
@@ -36,4 +36,3 @@ Thumbs.db
 *.log
 =======
 ".terraform/" 
->>>>>>> abc0f92 (Remove .terraform directory from version control)
